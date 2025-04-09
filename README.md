@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0EF7FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdul+Kreem+Shah;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0EF7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdul+Kreem+Shah;Frontend+Developer+%7C+Learner+%7C+Problem+Solver;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 
 ---
 
@@ -10,7 +10,7 @@
 <!-- Centered Trophy -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abdulkreemshah2408&theme=onedark&column=4" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=abdulkreemshah2408&theme=onedark&column=8" alt="Trophies" />
   </a>
 </p>
 
