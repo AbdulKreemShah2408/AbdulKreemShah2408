@@ -25,3 +25,12 @@
 
 <br/>
 <hr/>
+<br/>
+<hr/>
+
+<h2 align="center">📊 GitHub Stats & Metrics 📊</h2>
+<br/>
+
+<div align="center">
+    <img src="https://github.com/AbdulKreemShah2408/AbdulKreemShah2408/blob/main/metrics.svg" />
+</div>
